@@ -1,0 +1,6 @@
+POST http://localhost:3001/athenticate 
+Content-Type: application/json
+
+{
+    "username":"zack"
+}
